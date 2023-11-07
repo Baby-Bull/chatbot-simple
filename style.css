@@ -59,9 +59,10 @@ span {
 	width: 100%;
 	position: absolute;
 	top: 10vh;
+	text-align: center;
 }
 
-.title {
+/* .title {
 	text-align: center;
 	justify-content: center;
 	align-items: center;
@@ -74,7 +75,7 @@ span {
 	width: fit-content;
 	border: white 1px solid;
 	border-radius: 30px;
-}
+} */
 
 .container {
 	display: flex;
